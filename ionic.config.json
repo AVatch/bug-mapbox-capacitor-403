@@ -1,0 +1,7 @@
+{
+  "name": "minimap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
